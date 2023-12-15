@@ -7,6 +7,7 @@ Technology Used:
 • Express
 • Truffle
 • Ganache
+• Solidity
 
 • React.js
 • Web3
